@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Anonymous-Warrior-1
-- 👀 I’m interested in Coding and Gaming
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Rahul Agarwal
+- 👀 I’m currently pursuing Data Science and Machine Learning Course (Scaler)
+- 🌱 I’m currently learning Python and MySQL
+- 📫 How to reach me : Linkedin - https://www.linkedin.com/in/rahulagarwal20/
 
 <!---
 Anonymous-Warrior-1/Anonymous-Warrior-1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
